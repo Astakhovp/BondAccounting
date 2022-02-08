@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ZebarTablesController version="1.0.0">
+  <ProjectInformation>
+    <ProjectName>BondAccounting</ProjectName>
+    <ProjectDescription></ProjectDescription>
+    <ProjectVersion>1.0.0</ProjectVersion>
+    <MinimumZTCVersion>1.0.0.</MinimumZTCVersion>
+    <Author>Peter (Zebar) Astakhov</Author>
+    <AuthorEMail>zebar@yandex.ru</AuthorEMail>
+    <AuthorPhone>+790378733172</AuthorPhone>
+  </ProjectInformation>
+  <Enums />
+  <References />
+  <Documents />
+  <InfoRg />
+</ZebarTablesController>
