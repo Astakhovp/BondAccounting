@@ -4,6 +4,7 @@
     <ProjectName>BondAccounting</ProjectName>
     <ProjectDescription></ProjectDescription>
     <ProjectVersion>1.0.0</ProjectVersion>
+    <ProjectAddress>https://github.com/Astakhovp/BondAccounting/blob/main/BondAccounting.xml</ProjectAddress>
     <MinimumZTCVersion>1.0.0.</MinimumZTCVersion>
     <Author>Peter (Zebar) Astakhov</Author>
     <AuthorEMail>zebar@yandex.ru</AuthorEMail>
